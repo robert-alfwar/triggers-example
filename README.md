@@ -1,1 +1,3 @@
 # triggers-example
+
+Some text
